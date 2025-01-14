@@ -5,19 +5,19 @@ import './App.css';
 const images = [
   {
     url: 'https://wallpaperaccess.com/full/2493384.jpg',
-    caption: 'Beautiful Landscape',
+    caption: 'virat kohli',
   },
   {
     url: 'https://tse3.mm.bing.net/th?id=OIP._AQB5bs__31KG6qozVRAsQHaFI&pid=Api&P=0&h=220',
-    caption: 'Serene Beach',
+    caption: 'mahendra singh dhoni',
   },
   {
     url: 'http://www.officechai.com/wp-content/uploads/2015/06/Dhoni-tte-collector.jpg',
-    caption: 'Inspirational Leader',
+    caption: 'yuvraj singh',
   },
   {
     url: 'https://tse4.mm.bing.net/th?id=OIP.RbIT-WWgOHLGB3u4rE7bTwHaE7&pid=Api&P=0&h=220',
-    caption: 'Golden Sunset',
+    caption: 'sachin tendulkar',
   },
 ];
 
